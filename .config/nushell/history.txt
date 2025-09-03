@@ -1,0 +1,360 @@
+code ~/.config/nushell/config.nu
+yay oh-my-posh
+oh-my-posh font Meslo
+oh-my-posh font install Meslo
+oh-my-posh init nu
+ls
+cd ./.config/nushell/
+ls
+code ./theme.omp.json
+yay fastfetch
+mkdir ~/.config/fastfetch
+cd ./.config/fastfetch/
+code shark_ascii.txt
+code config.conf
+/home/g0shark/.config/fastfetch/config.conf
+code /home/g0shark/.config/fastfetch/config.conf
+cd /home/g0shark/.config/fastfetch
+ls
+clear
+fastfetch --config ~/.config/fastfetch/config.conf
+fastfetch --gen-config
+cd .config/fastfetch/
+ls
+code config.jsonc
+firefox
+yay youtube
+yt-dlp 
+code ~/.config/clash/config.yaml
+sudo systemctl restart clash-meta.service
+sudo systemctl restart awgproxy.service
+yt-dlp 'https://www.youtube.com/watch?v=Bi4O1Uk7gWY'
+which yt-dlp 
+cp '/home/g0shark/Live Wallpapers - Wake up [Bi4O1Uk7gWY].webm' ~/.config/mpvpaper/wallpaper.webm
+mkdir ~/.config/mpvpaper
+cp '/home/g0shark/Live Wallpapers - Wake up [Bi4O1Uk7gWY].webm' ~/.config/mpvpaper/wallpaper.webm
+mpvpaper -o "no-audio loop" /home/g0shark/.config/mpvpaper/wallpaper.webm
+yay mpvpaper
+mpvpaper -o "no-audio loop" /home/g0shark/.config/mpvpaper/wallpaper.webm
+mpvpaper -o "no-audio loop" DP-1 /home/g0shark/.config/mpvpaper/wallpaper.webm
+mpvpaper -o "no-audio loop" DP-3 /home/g0shark/.config/mpvpaper/wallpaper.webm
+yt-dlp --help
+yt-dlp -t mp4 'https://www.youtube.com/watch?v=Bi4O1Uk7gWY'
+cp '/home/g0shark/Live Wallpapers - Wake up [Bi4O1Uk7gWY].mp4' ~/.config/mpvpaper/wallpaper.mp4
+mpvpaper -o "no-audio loop" DP-3 /home/g0shark/.config/mpvpaper/wallpaper.mp4
+rm '/home/g0shark/Live Wallpapers - Wake up [Bi4O1Uk7gWY].mp4'
+rm '/home/g0shark/Live Wallpapers - Wake up [Bi4O1Uk7gWY].webm'
+rm .config/
+rm .config/mpvpaper/wallpaper.mp4
+rm .config/mpvpaper/wallpaper.webm
+yt-dlp -f "bestvideo[height<=1080]+bestaudio/best[height<=1080]" 'https://www.youtube.com/watch?v=Bi4O1Uk7gWY'
+mpvpaper -o "no-audio loop" DP-3 '/home/g0shark/Live Wallpapers - Wake up [Bi4O1Uk7gWY].webm'
+mpvpaper -o "no-audio loop" DP-3 /home/g0shark/.config/mpvpaper/wallpaper.webm
+yt-dlp -f "bestvideo[height<=1080]+bestaudio/best[height<=1080]" 'https://www.youtube.com/watch?v=Bi4O1Uk7gWY'
+cp '/home/g0shark/Live Wallpapers - Wake up [Bi4O1Uk7gWY].webm' ~/.config/mpvpaper/wallpaper.webm
+yt-dlp -f "bestvideo[height<=1080]+bestaudio/best[height<=1080]" 'https://www.youtube.com/watch?v=Bi4O1Uk7gWY'
+mpvpaper -o "no-audio loop" DP-3 /home/g0shark/.config/mpvpaper/wallpaper.webm
+code ~/.config/hypr/hyprland.conf
+ls
+cd Downloads/
+ls
+cd ~/Загрузки/
+ls
+unzip 1781466079_VSTHEMES-ORG.zip
+yay unzip
+unzip 1781466079_VSTHEMES-ORG.zip
+cd 1781466079/
+ls
+mpv `合成 1_1.mp4`
+cp `./合成 1_1.mp4` ~/.config/mpvpaper/wallpaper.mp4
+code ~/.config/hypr/hyprland.conf
+xrandr<\n>
+reboot
+sudo pacman -S os-prober
+sudo nano /etc/default/grub
+sudo grub-mkconfig -o /boot/grub/grub.cfg<\n>
+yay -Rns discord
+yay -R discord
+yay vesktop
+code ~/.config/clash/config.yaml
+code ~/.config/restart_ObhodBlokirovok.sh
+sh ~/.config/restart_ObhodBlokirovok.sh
+yay vesktop
+code ~/.config/clash/config.yaml
+sudo systemctl restart clash-meta.service
+sudo systemctl restart awgproxy.service
+systemctl status awgproxy.service
+sudo systemctl restart awgproxy.service
+systemctl status awgproxy.service
+sudo systemctl stop awgproxy.serivce
+sudo systemctl start awgproxy.serivce
+sudo systemctl stop awgproxy
+sudo systemctl start awgproxy
+sh ~/.config/restart_ObhodBlokirovok.sh
+yay vesktop-git
+sh ~/.config/restart_ObhodBlokirovok.sh
+yay vesktop-git
+yay vesktop
+dir
+which
+which ./
+which .
+cd ..
+cp ~/Загрузки/TranslucencePlus.theme.css ~/.config/vesktop/themes/
+code ~/.config/vesktop/themes/TranslucencePlus.theme.css
+cd .config/
+ls
+cd vesktop/
+ls
+code settings.json
+cd settings/
+ls
+code settings.json
+yay yazi
+yay yandex-music
+yay ayugram
+yay steam
+umu-run
+yay -R umu
+umu-run
+umu-run -h
+yay -R umu-launcher
+yay steam
+lsblk -f
+sudo nano /etc/fstab
+sudo mount -a
+mkdir /mnt/d1
+sudo mkdir /mnt/d1
+mkdir /mnt/d1
+sudo mount -a
+systemctl daemon-reload
+sudo mount -a
+reboot
+sudo chown -R $USER:$USER /mnt/d1/SteamLibrary<\n>
+sudo chown -R g0shark:g0shark /mnt/d1/SteamLibrary<\n>
+id g0shark
+sudo nano /etc/fstab
+sudo umount /mnt/d1
+sudo mount -a
+systemctl daemon-reload
+sudo mount -a
+sudo pacman -S ntfs-3g
+sudo mount -a
+code ~/.config/clash/config.yaml
+ps -e
+ps
+sh ~/.config/restart_ObhodBlokirovok.sh
+systemctl status awgproxy.service
+systemctl status clash-meta.service
+systemctl status awgproxy.service
+yay rocketleague
+yay heroic
+yay -R telegram
+yay -R telegram-desktop
+git clone https://github.com/sejjy/mechabar.git<\n>cd mechabar
+./install.sh
+rm -rf mechabar/
+waybar
+waybar --help
+mkdir ~/.config/waybar
+cp ~/Загрузки/config.jsonc ~/.config/waybar/config.jsonc
+cp ~/Загрузки/style.css ~/.config/waybar/style.css
+code ~/.config/hypr/hyprland.conf
+waybar --help
+wofi --help
+code ~/.config/hypr/hyprland.conf
+mkdir ~/.config/wofi
+cp ~/Загрузки/style.css ~/.config/wofi/style.css
+cp ~/Загрузки/config ~/.config/wofi/config
+cd .config/wofi/
+code config
+code style.css
+cd ~/.config/waybar/
+ls
+code config.jsonc
+code ~/.config/hypr/hyprland.conf
+sudo pacman -S clipman
+clipman
+yay clipman
+code ~/.config/hypr/hyprland.conf
+shutdown now
+yay
+vim ~/.config/hypr/hyprland.conf
+code ~/.config/waybar/config.jsonc
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/keyitdev/sddm-astronaut-theme/master/setup.sh)"
+cd ~/Загрузки/
+ls
+sh ./setup.sh
+reboot
+yay hyprshot
+hyprshot
+hyprshot -m region -f -o /home/g0shark/Screenshots/
+mkdir ~/Screenshots/
+hyprshot -m region -f -o /home/g0shark/Screenshots/
+hyprshot -m region -f -o /home/g0shark/Screenshots
+hyprshot -m region -z -o /home/g0shark/Screenshots
+vim ~/.config/hypr/hyprland.conf
+cd ~/.config/waybar/
+vim style.css
+codew\ style.css
+code style.css
+cd ~
+cd .config/wofi/
+ls
+code style.css
+cd .config/waybar/
+ls
+code style.css
+clipman pick -t wofi
+wl-paste
+cd ~/.local/share/
+ls
+cat clipman-primary.json
+clipman pick -t wofi
+wl-paste -t text --watch clipman store --no-persist<\n>
+code ~/.config/hypr/hyprland.conf
+code ~/.config/clash/config.yaml
+sh ~/.config/restart_ObhodBlokirovok.sh
+code ~/.config/clash/config.yaml
+sh ~/.config/restart_ObhodBlokirovok.sh
+hyprlock
+yay neovim
+yay dotnet-sdk
+yay dotnet-runtime
+ya pkg add yazi-rs/flavors:catppuccin-mocha
+yazi --help
+cd ~/.config/yazi/
+ls
+cd flavors/
+ls
+cd ..
+vim theme.toml
+yazi
+config nu
+yazi
+ls
+y
+yay btop
+code ~/.config/hypr/hyprland.conf
+y
+code Acrylic-Harmony.theme.css
+y
+code ~/.config/vesktop/themes/Spotify-Discord.theme.css
+cd ~/.config/kitty/
+ls
+code kitty.conf
+code .config/nushell/config.nu
+code ~/.config/fastfetch/
+code ~/.config/fastfetch/config.jsonc
+y
+fastfetch --help
+xrandr --output DP-3 --primary
+yay gigabyte
+yay coolercontrol
+sudo systemctl enable --now coolercontrold
+sudo systemctl status coolercontrold
+sudo sensors-detect 
+sudo pacman -S dunst
+notify-send "ss"
+code ~/.config/hypr/hyprland.conf
+sudo systemctl disable --now mako.service
+dunst --help
+mkdir ~/.config/dunst
+cp ~/Загрузки/dunstrc2 ~/.config/dunst/dunstrc
+dunst --help
+reboot
+notify-send "ss"
+code ~/.config/dunst/dunstrc
+notify-send "ss"
+notify-send "sssss"
+code ~/.config/waybar/style.css
+notify-send "sssss"
+reboot
+notify-send "sssss"
+code ~/.config/dunst/dunstrc
+code ~/.config/wofi/
+code ~/.config/hypr/hyprland.conf
+mkdir dotfiles
+ls
+cd dotfiles/
+git init
+git init --bare $HOME/.dotfiles<\n>alias dot='git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'<\n>echo "alias dot='git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'" >> ~/.bashrc<\n>
+cd ..
+rm -rf dotfiles/
+ls
+mkdir ./.dotfiles
+cd .dotfiles/
+git init --bare ~/.dotfiles
+alias dot='git --git-dir=/home/g0shark/.dotfiles/ --work-tree=/home/g0shark/'
+alias dot = 'git --git-dir=/home/g0shark/.dotfiles/ --work-tree=/home/g0shark/'
+alias dot = git --git-dir=/home/g0shark/.dotfiles/ --work-tree=/home/g0shark/
+dot status
+echo "alias dot = git --git-dir=/home/g0shark/.dotfiles/ --work-tree=/home/g0shark/" >> ~ ~/.bashrc
+dot status
+config nu
+dot
+dot status
+dot add ~/.config/hypr/hyprland.conf
+dot commit -m "add hyprland config"
+git config --global user.email "omegadroid2.0@gmail.com"
+git config --global user.name "G0Shark"
+dot commit -m "add hyprland config"
+git remote add origin https://github.com/G0Shark/dotfiles.git
+dot remote add origin https://github.com/G0Shark/dotfiles.git
+dot branch -M main
+dot push -u origin main
+git config --global credential.helper store<\n>
+dot add ~/.config/awgproxy/config.conf
+dot add ~/.config/clash/
+dot add ~/.config/fastfetch/
+dot add ~/.config/kitty/
+dot add ~/.config/mpvpaper/
+dot add ~/.config/wofi/
+dot add ~/.config/waybar/
+dot add ~/.config/yazi/
+dot add ~/.config/nushell/
+dot commit -m "add other things"
+dot push -u origin main
+dot --help
+dot rm ~/.config/mpvpaper/
+dot push -u origin main
+dot status
+dot rm -r ~/.config/mpvpaper/
+dot push -u origin main
+git show
+dot show
+dot
+dot show
+dot show :.config/mpvpaper
+dot show :.config/mpvpaper/wallpaper.webm
+dot show .config/mpvpaper/wallpaper.webm
+dot show
+dot show HEAD:.config/mpvpaper/wallpaper.webm
+dot show HEAD:/.config/mpvpaper/wallpaper.webm
+dot show HEAD:/.config/mpvpaper
+dot show HEAD:/.config/mpvpaper/
+dot show HEAD:/.config/mpvpaper/wallpaper.mp4
+code ~/.config/hypr/hyprland.conf
+dot show HEAD:.config/mpvpaper/wallpaper.mp4
+dot show HEAD:./.config/mpvpaper/wallpaper.mp4
+git checkout HEAD -- .config/mpvpaper/walpaper.mp4
+вще checkout HEAD -- .config/mpvpaper/walpaper.mp4
+dot checkout HEAD -- .config/mpvpaper/walpaper.mp4
+git restore --source=HEAD --staged --worktree .config/mpvpaper/walpaper.mp4
+dot restore --source=HEAD --staged --worktree .config/mpvpaper/walpaper.mp4
+dot restore --source=HEAD --staged --worktree ./.config/mpvpaper/walpaper.mp4
+dot restore --source=HEAD --staged --worktree mpvpaper/walpaper.mp4
+dot restore --source=HEAD --staged --worktree /home/g0shark/.config/mpvpaper/walpaper.mp4
+dot restore --source=HEAD --staged --worktree .config/mpvpaper/walpaper.mp4
+dot reset
+dot status
+dot push -u origin main
+dot reset --soft HEAD~1
+dot status
+dot add ~/.config/restart_ObhodBlokirovok.sh
+dot reset
+dot status
+dot add ~/.config/restart_ObhodBlokirovok.sh
+dot add ~/.config/waybar/
+dot add ~/.config/wofi/
+dot add ~/.config/dunst/
