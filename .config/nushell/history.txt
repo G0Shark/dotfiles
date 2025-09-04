@@ -358,3 +358,84 @@ dot add ~/.config/restart_ObhodBlokirovok.sh
 dot add ~/.config/waybar/
 dot add ~/.config/wofi/
 dot add ~/.config/dunst/
+dot add ~/.config/nushell/
+dot add ~/.config/yazi/
+dot add ~/.config/clash/
+dot add ~/.config/awgproxy/
+dot add ~/.config/fastfetch/
+dot add ~/.config/kitty/
+dot commit -m "add other things"
+dot push -u origin main
+code ~/.config/hypr/hyprland.conf
+clear
+xrandr
+cvt 1920 1080 144
+sudo nano /usr/share/sddm/scripts/Xsetup
+sudo chmod +x /usr/share/sddm/scripts/Xsetup<\n>
+reboot
+code ~/.config/hypr/hyprland.conf
+sudo pacman -S nwg-look
+config nu
+code ~/.config/nushell/theme.omp.json
+clear
+fastfetch
+cd .config
+neovim
+vim ~/.config/nvim/init.lua
+cd .config/
+ls
+mkdir nvim
+cd nvim/
+vim init.lua
+nvim
+git clone https://github.com/NvChad/starter ~/.config/nvim && nvim
+git clone https://github.com/NvChad/starter ~/.config/nvim ; nvim
+git clone https://github.com/NvChad/starter ~/.config/nvim/ ; nvim
+rm -rf ~/.config/nvim/
+git clone https://github.com/NvChad/starter ~/.config/nvim && nvim
+rm -rf ~/.config/nvim/
+git clone https://github.com/NvChad/starter ~/.config/nvim && nvim
+rm -rf ~/.config/nvim/
+ls
+git clone https://github.com/NvChad/starter ~/.config/nvim
+rm -rf ~/.config/nvim/
+yay -R nvim
+yay -R neovim
+yay neovim
+neovim
+git clone https://github.com/NvChad/starter ~/.config/nvim ; nvim
+neovim
+rm -rf ~/.config/nvim/
+rm -rf ~/.local/share/nvim/
+rm -rf ~/.cache/nvim/
+git clone https://github.com/NvChad/NvChad ~/.config/nvim --depth 1<\n>
+rm -rf ~/.config/nvim/
+rm -rf ~/.local/share/nvim/
+rm -rf ~/.cache/nvim/
+git clone https://github.com/NvChad/starter ~/.config/nvim && nvim
+git clone https://github.com/NvChad/starter ~/.config/nvim ; nvim
+cd ~/.config/nvim/
+ls
+cd lua
+ls
+code ~/.config/nvim/lua/custom/configs/lspconfig.lua
+code ~/.config/nvim/lua/custom/plugins.lua
+mkdir ~/Coding
+cd Coding/
+dotnet new console -n "Test"
+cd Test/
+y
+code /home/g0shark/.config/nvim/lua/custom/configs/lspconfig.lua
+cd ~/Coding/Test/
+shutdown now
+dot status
+dot add ~/.config/hypr/hyprland.conf
+dot add ~/.config/nushell/theme.omp.json
+dot commit -m "changes in settings + another ohmyposh theme"
+dot push -u origin main
+cp ~/Загрузки/atelier-forest.nu
+cp ~/Загрузки/atelier-forest.nu ~/.config/nushell/theme.nu
+config nu
+help
+yazi
+dot status

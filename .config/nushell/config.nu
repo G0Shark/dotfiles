@@ -3,6 +3,7 @@ $env.config.show_banner = false
 oh-my-posh init nu --config ~/.config/nushell/theme.omp.json
 fastfetch --logo ~/.config/fastfetch/shark_ascii.txt --config /home/g0shark/.config/fastfetch/config.jsonc
 alias dot = git --git-dir=/home/g0shark/.dotfiles/ --work-tree=/home/g0shark/
+source ~/.config/nushell/theme.nu
 
 def --env y [...args] {
 	let tmp = (mktemp -t "yazi-cwd.XXXXXX")
