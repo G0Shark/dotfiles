@@ -1,0 +1,4 @@
+[opener]
+image = [
+  { run = 'pinta "$@"', orphan = true, desc = "Open with Pinta" },
+]

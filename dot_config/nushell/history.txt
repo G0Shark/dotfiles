@@ -1,0 +1,1885 @@
+code ~/.config/nushell/config.nu
+yay oh-my-posh
+oh-my-posh font Meslo
+oh-my-posh font install Meslo
+oh-my-posh init nu
+ls
+cd ./.config/nushell/
+ls
+code ./theme.omp.json
+yay fastfetch
+mkdir ~/.config/fastfetch
+cd ./.config/fastfetch/
+code shark_ascii.txt
+code config.conf
+/home/g0shark/.config/fastfetch/config.conf
+code /home/g0shark/.config/fastfetch/config.conf
+cd /home/g0shark/.config/fastfetch
+ls
+clear
+fastfetch --config ~/.config/fastfetch/config.conf
+fastfetch --gen-config
+cd .config/fastfetch/
+ls
+code config.jsonc
+firefox
+yay youtube
+yt-dlp 
+code ~/.config/clash/config.yaml
+sudo systemctl restart clash-meta.service
+sudo systemctl restart awgproxy.service
+yt-dlp 'https://www.youtube.com/watch?v=Bi4O1Uk7gWY'
+which yt-dlp 
+cp '/home/g0shark/Live Wallpapers - Wake up [Bi4O1Uk7gWY].webm' ~/.config/mpvpaper/wallpaper.webm
+mkdir ~/.config/mpvpaper
+cp '/home/g0shark/Live Wallpapers - Wake up [Bi4O1Uk7gWY].webm' ~/.config/mpvpaper/wallpaper.webm
+mpvpaper -o "no-audio loop" /home/g0shark/.config/mpvpaper/wallpaper.webm
+yay mpvpaper
+mpvpaper -o "no-audio loop" /home/g0shark/.config/mpvpaper/wallpaper.webm
+mpvpaper -o "no-audio loop" DP-1 /home/g0shark/.config/mpvpaper/wallpaper.webm
+mpvpaper -o "no-audio loop" DP-3 /home/g0shark/.config/mpvpaper/wallpaper.webm
+yt-dlp --help
+yt-dlp -t mp4 'https://www.youtube.com/watch?v=Bi4O1Uk7gWY'
+cp '/home/g0shark/Live Wallpapers - Wake up [Bi4O1Uk7gWY].mp4' ~/.config/mpvpaper/wallpaper.mp4
+mpvpaper -o "no-audio loop" DP-3 /home/g0shark/.config/mpvpaper/wallpaper.mp4
+rm '/home/g0shark/Live Wallpapers - Wake up [Bi4O1Uk7gWY].mp4'
+rm '/home/g0shark/Live Wallpapers - Wake up [Bi4O1Uk7gWY].webm'
+rm .config/
+rm .config/mpvpaper/wallpaper.mp4
+rm .config/mpvpaper/wallpaper.webm
+yt-dlp -f "bestvideo[height<=1080]+bestaudio/best[height<=1080]" 'https://www.youtube.com/watch?v=Bi4O1Uk7gWY'
+mpvpaper -o "no-audio loop" DP-3 '/home/g0shark/Live Wallpapers - Wake up [Bi4O1Uk7gWY].webm'
+mpvpaper -o "no-audio loop" DP-3 /home/g0shark/.config/mpvpaper/wallpaper.webm
+yt-dlp -f "bestvideo[height<=1080]+bestaudio/best[height<=1080]" 'https://www.youtube.com/watch?v=Bi4O1Uk7gWY'
+cp '/home/g0shark/Live Wallpapers - Wake up [Bi4O1Uk7gWY].webm' ~/.config/mpvpaper/wallpaper.webm
+yt-dlp -f "bestvideo[height<=1080]+bestaudio/best[height<=1080]" 'https://www.youtube.com/watch?v=Bi4O1Uk7gWY'
+mpvpaper -o "no-audio loop" DP-3 /home/g0shark/.config/mpvpaper/wallpaper.webm
+code ~/.config/hypr/hyprland.conf
+ls
+cd Downloads/
+ls
+cd ~/Загрузки/
+ls
+unzip 1781466079_VSTHEMES-ORG.zip
+yay unzip
+unzip 1781466079_VSTHEMES-ORG.zip
+cd 1781466079/
+ls
+mpv `合成 1_1.mp4`
+cp `./合成 1_1.mp4` ~/.config/mpvpaper/wallpaper.mp4
+code ~/.config/hypr/hyprland.conf
+xrandr<\n>
+reboot
+sudo pacman -S os-prober
+sudo nano /etc/default/grub
+sudo grub-mkconfig -o /boot/grub/grub.cfg<\n>
+yay -Rns discord
+yay -R discord
+yay vesktop
+code ~/.config/clash/config.yaml
+code ~/.config/restart_ObhodBlokirovok.sh
+sh ~/.config/restart_ObhodBlokirovok.sh
+yay vesktop
+code ~/.config/clash/config.yaml
+sudo systemctl restart clash-meta.service
+sudo systemctl restart awgproxy.service
+systemctl status awgproxy.service
+sudo systemctl restart awgproxy.service
+systemctl status awgproxy.service
+sudo systemctl stop awgproxy.serivce
+sudo systemctl start awgproxy.serivce
+sudo systemctl stop awgproxy
+sudo systemctl start awgproxy
+sh ~/.config/restart_ObhodBlokirovok.sh
+yay vesktop-git
+sh ~/.config/restart_ObhodBlokirovok.sh
+yay vesktop-git
+yay vesktop
+dir
+which
+which ./
+which .
+cd ..
+cp ~/Загрузки/TranslucencePlus.theme.css ~/.config/vesktop/themes/
+code ~/.config/vesktop/themes/TranslucencePlus.theme.css
+cd .config/
+ls
+cd vesktop/
+ls
+code settings.json
+cd settings/
+ls
+code settings.json
+yay yazi
+yay yandex-music
+yay ayugram
+yay steam
+umu-run
+yay -R umu
+umu-run
+umu-run -h
+yay -R umu-launcher
+yay steam
+lsblk -f
+sudo nano /etc/fstab
+sudo mount -a
+mkdir /mnt/d1
+sudo mkdir /mnt/d1
+mkdir /mnt/d1
+sudo mount -a
+systemctl daemon-reload
+sudo mount -a
+reboot
+sudo chown -R $USER:$USER /mnt/d1/SteamLibrary<\n>
+sudo chown -R g0shark:g0shark /mnt/d1/SteamLibrary<\n>
+id g0shark
+sudo nano /etc/fstab
+sudo umount /mnt/d1
+sudo mount -a
+systemctl daemon-reload
+sudo mount -a
+sudo pacman -S ntfs-3g
+sudo mount -a
+code ~/.config/clash/config.yaml
+ps -e
+ps
+sh ~/.config/restart_ObhodBlokirovok.sh
+systemctl status awgproxy.service
+systemctl status clash-meta.service
+systemctl status awgproxy.service
+yay rocketleague
+yay heroic
+yay -R telegram
+yay -R telegram-desktop
+git clone https://github.com/sejjy/mechabar.git<\n>cd mechabar
+./install.sh
+rm -rf mechabar/
+waybar
+waybar --help
+mkdir ~/.config/waybar
+cp ~/Загрузки/config.jsonc ~/.config/waybar/config.jsonc
+cp ~/Загрузки/style.css ~/.config/waybar/style.css
+code ~/.config/hypr/hyprland.conf
+waybar --help
+wofi --help
+code ~/.config/hypr/hyprland.conf
+mkdir ~/.config/wofi
+cp ~/Загрузки/style.css ~/.config/wofi/style.css
+cp ~/Загрузки/config ~/.config/wofi/config
+cd .config/wofi/
+code config
+code style.css
+cd ~/.config/waybar/
+ls
+code config.jsonc
+code ~/.config/hypr/hyprland.conf
+sudo pacman -S clipman
+clipman
+yay clipman
+code ~/.config/hypr/hyprland.conf
+shutdown now
+yay
+vim ~/.config/hypr/hyprland.conf
+code ~/.config/waybar/config.jsonc
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/keyitdev/sddm-astronaut-theme/master/setup.sh)"
+cd ~/Загрузки/
+ls
+sh ./setup.sh
+reboot
+yay hyprshot
+hyprshot
+hyprshot -m region -f -o /home/g0shark/Screenshots/
+mkdir ~/Screenshots/
+hyprshot -m region -f -o /home/g0shark/Screenshots/
+hyprshot -m region -f -o /home/g0shark/Screenshots
+hyprshot -m region -z -o /home/g0shark/Screenshots
+vim ~/.config/hypr/hyprland.conf
+cd ~/.config/waybar/
+vim style.css
+codew\ style.css
+code style.css
+cd ~
+cd .config/wofi/
+ls
+code style.css
+cd .config/waybar/
+ls
+code style.css
+clipman pick -t wofi
+wl-paste
+cd ~/.local/share/
+ls
+cat clipman-primary.json
+clipman pick -t wofi
+wl-paste -t text --watch clipman store --no-persist<\n>
+code ~/.config/hypr/hyprland.conf
+code ~/.config/clash/config.yaml
+sh ~/.config/restart_ObhodBlokirovok.sh
+code ~/.config/clash/config.yaml
+sh ~/.config/restart_ObhodBlokirovok.sh
+hyprlock
+yay neovim
+yay dotnet-sdk
+yay dotnet-runtime
+ya pkg add yazi-rs/flavors:catppuccin-mocha
+yazi --help
+cd ~/.config/yazi/
+ls
+cd flavors/
+ls
+cd ..
+vim theme.toml
+yazi
+config nu
+yazi
+ls
+y
+yay btop
+code ~/.config/hypr/hyprland.conf
+y
+code Acrylic-Harmony.theme.css
+y
+code ~/.config/vesktop/themes/Spotify-Discord.theme.css
+cd ~/.config/kitty/
+ls
+code kitty.conf
+code .config/nushell/config.nu
+code ~/.config/fastfetch/
+code ~/.config/fastfetch/config.jsonc
+y
+fastfetch --help
+xrandr --output DP-3 --primary
+yay gigabyte
+yay coolercontrol
+sudo systemctl enable --now coolercontrold
+sudo systemctl status coolercontrold
+sudo sensors-detect 
+sudo pacman -S dunst
+notify-send "ss"
+code ~/.config/hypr/hyprland.conf
+sudo systemctl disable --now mako.service
+dunst --help
+mkdir ~/.config/dunst
+cp ~/Загрузки/dunstrc2 ~/.config/dunst/dunstrc
+dunst --help
+reboot
+notify-send "ss"
+code ~/.config/dunst/dunstrc
+notify-send "ss"
+notify-send "sssss"
+code ~/.config/waybar/style.css
+notify-send "sssss"
+reboot
+notify-send "sssss"
+code ~/.config/dunst/dunstrc
+code ~/.config/wofi/
+code ~/.config/hypr/hyprland.conf
+mkdir dotfiles
+ls
+cd dotfiles/
+git init
+git init --bare $HOME/.dotfiles<\n>alias dot='git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'<\n>echo "alias dot='git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'" >> ~/.bashrc<\n>
+cd ..
+rm -rf dotfiles/
+ls
+mkdir ./.dotfiles
+cd .dotfiles/
+git init --bare ~/.dotfiles
+alias dot='git --git-dir=/home/g0shark/.dotfiles/ --work-tree=/home/g0shark/'
+alias dot = 'git --git-dir=/home/g0shark/.dotfiles/ --work-tree=/home/g0shark/'
+alias dot = git --git-dir=/home/g0shark/.dotfiles/ --work-tree=/home/g0shark/
+dot status
+echo "alias dot = git --git-dir=/home/g0shark/.dotfiles/ --work-tree=/home/g0shark/" >> ~ ~/.bashrc
+dot status
+config nu
+dot
+dot status
+dot add ~/.config/hypr/hyprland.conf
+dot commit -m "add hyprland config"
+git config --global user.email "omegadroid2.0@gmail.com"
+git config --global user.name "G0Shark"
+dot commit -m "add hyprland config"
+git remote add origin https://github.com/G0Shark/dotfiles.git
+dot remote add origin https://github.com/G0Shark/dotfiles.git
+dot branch -M main
+dot push -u origin main
+git config --global credential.helper store<\n>
+dot add ~/.config/awgproxy/config.conf
+dot add ~/.config/clash/
+dot add ~/.config/fastfetch/
+dot add ~/.config/kitty/
+dot add ~/.config/mpvpaper/
+dot add ~/.config/wofi/
+dot add ~/.config/waybar/
+dot add ~/.config/yazi/
+dot add ~/.config/nushell/
+dot commit -m "add other things"
+dot push -u origin main
+dot --help
+dot rm ~/.config/mpvpaper/
+dot push -u origin main
+dot status
+dot rm -r ~/.config/mpvpaper/
+dot push -u origin main
+git show
+dot show
+dot
+dot show
+dot show :.config/mpvpaper
+dot show :.config/mpvpaper/wallpaper.webm
+dot show .config/mpvpaper/wallpaper.webm
+dot show
+dot show HEAD:.config/mpvpaper/wallpaper.webm
+dot show HEAD:/.config/mpvpaper/wallpaper.webm
+dot show HEAD:/.config/mpvpaper
+dot show HEAD:/.config/mpvpaper/
+dot show HEAD:/.config/mpvpaper/wallpaper.mp4
+code ~/.config/hypr/hyprland.conf
+dot show HEAD:.config/mpvpaper/wallpaper.mp4
+dot show HEAD:./.config/mpvpaper/wallpaper.mp4
+git checkout HEAD -- .config/mpvpaper/walpaper.mp4
+вще checkout HEAD -- .config/mpvpaper/walpaper.mp4
+dot checkout HEAD -- .config/mpvpaper/walpaper.mp4
+git restore --source=HEAD --staged --worktree .config/mpvpaper/walpaper.mp4
+dot restore --source=HEAD --staged --worktree .config/mpvpaper/walpaper.mp4
+dot restore --source=HEAD --staged --worktree ./.config/mpvpaper/walpaper.mp4
+dot restore --source=HEAD --staged --worktree mpvpaper/walpaper.mp4
+dot restore --source=HEAD --staged --worktree /home/g0shark/.config/mpvpaper/walpaper.mp4
+dot restore --source=HEAD --staged --worktree .config/mpvpaper/walpaper.mp4
+dot reset
+dot status
+dot push -u origin main
+dot reset --soft HEAD~1
+dot status
+dot add ~/.config/restart_ObhodBlokirovok.sh
+dot reset
+dot status
+dot add ~/.config/restart_ObhodBlokirovok.sh
+dot add ~/.config/waybar/
+dot add ~/.config/wofi/
+dot add ~/.config/dunst/
+dot add ~/.config/nushell/
+dot add ~/.config/yazi/
+dot add ~/.config/clash/
+dot add ~/.config/awgproxy/
+dot add ~/.config/fastfetch/
+dot add ~/.config/kitty/
+dot commit -m "add other things"
+dot push -u origin main
+code ~/.config/hypr/hyprland.conf
+clear
+xrandr
+cvt 1920 1080 144
+sudo nano /usr/share/sddm/scripts/Xsetup
+sudo chmod +x /usr/share/sddm/scripts/Xsetup<\n>
+reboot
+code ~/.config/hypr/hyprland.conf
+sudo pacman -S nwg-look
+config nu
+code ~/.config/nushell/theme.omp.json
+clear
+fastfetch
+cd .config
+neovim
+vim ~/.config/nvim/init.lua
+cd .config/
+ls
+mkdir nvim
+cd nvim/
+vim init.lua
+nvim
+git clone https://github.com/NvChad/starter ~/.config/nvim && nvim
+git clone https://github.com/NvChad/starter ~/.config/nvim ; nvim
+git clone https://github.com/NvChad/starter ~/.config/nvim/ ; nvim
+rm -rf ~/.config/nvim/
+git clone https://github.com/NvChad/starter ~/.config/nvim && nvim
+rm -rf ~/.config/nvim/
+git clone https://github.com/NvChad/starter ~/.config/nvim && nvim
+rm -rf ~/.config/nvim/
+ls
+git clone https://github.com/NvChad/starter ~/.config/nvim
+rm -rf ~/.config/nvim/
+yay -R nvim
+yay -R neovim
+yay neovim
+neovim
+git clone https://github.com/NvChad/starter ~/.config/nvim ; nvim
+neovim
+rm -rf ~/.config/nvim/
+rm -rf ~/.local/share/nvim/
+rm -rf ~/.cache/nvim/
+git clone https://github.com/NvChad/NvChad ~/.config/nvim --depth 1<\n>
+rm -rf ~/.config/nvim/
+rm -rf ~/.local/share/nvim/
+rm -rf ~/.cache/nvim/
+git clone https://github.com/NvChad/starter ~/.config/nvim && nvim
+git clone https://github.com/NvChad/starter ~/.config/nvim ; nvim
+cd ~/.config/nvim/
+ls
+cd lua
+ls
+code ~/.config/nvim/lua/custom/configs/lspconfig.lua
+code ~/.config/nvim/lua/custom/plugins.lua
+mkdir ~/Coding
+cd Coding/
+dotnet new console -n "Test"
+cd Test/
+y
+code /home/g0shark/.config/nvim/lua/custom/configs/lspconfig.lua
+cd ~/Coding/Test/
+shutdown now
+dot status
+dot add ~/.config/hypr/hyprland.conf
+dot add ~/.config/nushell/theme.omp.json
+dot commit -m "changes in settings + another ohmyposh theme"
+dot push -u origin main
+cp ~/Загрузки/atelier-forest.nu
+cp ~/Загрузки/atelier-forest.nu ~/.config/nushell/theme.nu
+config nu
+help
+yazi
+dot status
+dot add ~/.config/nushell/
+dot commit -m "added nu theme"
+dot push -u origin main
+yay yandex
+shutdown now
+yay tizen
+sh ~/Загрузки/install.sh
+yay tizen-studio
+yay tizen
+git clone https://github.com/Toxblh/tizen-studio-arch.git
+cd tizen-studio-arch/
+sh install.sh
+sh fake-dpkg.sh
+sh install.sh
+reboot
+hyprpm
+hyprpm add https://github.com/KZDKM/Hyprspace<\n>hyprpm enable Hyprspace
+hyprpm update
+sudo pacman -S cmake
+yay
+hyprpm update
+sudo pacman -S cmake
+hyprpm update
+sudo pacman -S meson
+sudo pacman -S cpio
+sudo pacman -S pkg-config
+sudo pacman -S g++
+sudo pacman -S gplusplus
+sudo pacman -S gpp
+sudo pacman -S gcc
+hyprpm add https://github.com/KZDKM/Hyprspace
+hyprpm enable Hyprspace
+hyprpm add https://github.com/micha4w/Hypr-DarkWindow
+hyprpm enable Hypr-DarkWindow
+hyprpm reload
+config nu
+echo $EDITOR
+echo $env.EDITOR
+shutdown now
+yay rider
+yay faceit
+dmesg | grep -e DMAR -e IOMMU<\n>
+nvim ~/.config/clash/config.yaml
+sh ~/.config/restart_ObhodBlokirovok.sh
+cd /etc/sddm.conf.d/
+ls
+cd /usr/share/sddm/scripts/
+ls
+cat Xsetup
+cat /usr/lib/sddm/sddm.conf.d/default.conf
+cvt 1920 1080 144
+sudo nano /etc/X11/xorg.conf.d/10-monitor.conf<\n>
+sudo nano /usr/share/sddm/scripts/Xsetup
+xrandr --listmonitors
+xrandr --query
+sudo nano /usr/share/sddm/scripts/Xsetup
+sudo chmod +x /usr/share/sddm/scripts/Xsetup<\n>
+cd /etc/X11/xorg.conf.d/
+ls
+cat 00-keyboard.conf
+sudo nano ./monitors.conf
+code ~/.config/hypr/hyprland.conf
+code ~/.config/wofi/config
+cd ~/.local/share/
+cat recently-used.xbel
+code ~/.config/wofi/sort_by_recently.sh
+cd ~
+sh /home/g0shark/.config/wofi/sort_by_recently.sh
+rm ~/.config/wofi/sort_by_recently.sh
+wofi --help
+wofi --sort-order
+wofi --sort-order recently
+wofi --sort-order=recently
+yay battlestate
+yay lutris
+yay wime
+yay wine
+yay nodejs
+yay npm
+yay ffmpeg
+hyprlock
+echo $env.XDG_CONFIG_HOME
+echo $env.HOME
+code ~/.config/hypr/hyprlock.conf
+hyprlock
+git clone https://github.com/MrVivekRajan/Hyprlock-Styles.git
+yay thunar
+cat ~/.config/hypr/hyprland.conf
+hyprlock
+code ~/.config/hypr/hyprlock.conf
+code ~/.config/hypr/hyprland.conf
+code ~/.config/hypr/hyprlock.conf
+code ~/.config/waybar/style.css
+code ~/.config/nushell/config.nu
+nu yazi
+nu --help
+nu --config /home/g0shark/.config/nushell/config.nu -c yazi
+code ~/.config/yazi/theme.toml
+code /usr/share/sddm/themes/sddm-astronaut-theme/Themes/hyprland_kath.conf
+sudo thunar
+cp ~/wallpaper.png /usr/share/sddm/themes/sddm-astronaut-theme/Backgrounds/sharks.png
+sudo cp ~/wallpaper.png /usr/share/sddm/themes/sddm-astronaut-theme/Backgrounds/sharks.png
+sudo cp ~/wallpaper.webm /usr/share/sddm/themes/sddm-astronaut-theme/Backgrounds/sharks.webm
+sudo code /usr/share/sddm/themes/sddm-astronaut-theme/Themes/hyprland_kath.conf
+sudo coed
+sudo code
+sudo vim /usr/share/sddm/themes/sddm-astronaut-theme/Themes/hyprland_kath.conf
+sudo code
+sudo code --no-sandbox
+sudo code /usr/share/sddm/themes/sddm-astronaut-theme/Themes/hyprland_kath.conf --no-sandbox
+sudo code --user-data-dir=~/root
+sudo -E code --no-sandbox<\n>
+code /usr/share/sddm/themes/sddm-astronaut-theme/Themes/hyprland_kath.conf --file-write
+code /usr/share/sddm/themes/sddm-astronaut-theme/Themes/hyprland_kath.conf
+sudo code --user-data-dir="~/.vscode-root"<\n>
+sudo code /usr/share/sddm/themes/sddm-astronaut-theme/Themes/hyprland_kath.conf --file-write
+sudo code /usr/share/sddm/themes/sddm-astronaut-theme/Themes/hyprland_kath.conf --user-data-dir='.' --no-sandbox
+pkexec env DISPLAY=$DISPLAY XAUTHORITY=$XAUTHORITY code<\n>
+sudo code /usr/share/sddm/themes/sddm-astronaut-theme/Themes/hyprland_kath.conf --no-sandbox
+sudo cp /usr/share/sddm/themes/sddm-astronaut-theme/Themes/hyprland_kath.conf ~/sddmconf.conf
+code ~/sddmconf.conf
+sudo pacman -S polkit-gnome
+/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
+code ~/.config/hypr/hyprland.conf
+code ~/.config/waybar/style.css
+dot
+dot status
+dot add ~/.config/nushell/config.nu
+dot add ~/.config/hypr/
+dot commit -m "added hyprlock"
+dot push -u origin main
+sudo xrandr --output DP-2 --off
+xrandr --output DP-2 --off
+code /usr/share/sddm/scripts/Xsetup
+cd /etc/sddm.conf.d/
+ls
+code monitor.conf
+ls\
+ls
+sudo nano ./monitors.conf
+sudo chmod +x /usr/share/sddm/scripts/Xsetup<\n>
+xrandr --output DP-3 --primary --help
+xrandr
+cvt 1920 1080 144<\n>
+xrandr --newmode "1920x1080_144.00"  452.50  1920 2088 2296 2672  1080 1083 1088 1177 -hsync +vsync
+xrandr --addmode DP-3 "1920x1080_144.00"
+code
+sudo chmod +x /usr/share/sddm/scripts/Xsetup<\n>
+systemctl status sddm<\n>
+journalctl -u sddm -b<\n>
+xrandr
+cvt 2560 1440 144<\n>
+cvt 1920 1080 144<\n>
+sudo nano /etc/X11/xorg.conf.d/10-monitor.conf<\n>
+nvidia-settings
+nvidia-smi 
+cat /sys/class/drm/*/modes<\n>
+journalctl -u sddm -b | grep -i nvidia<\n>
+sudo nano /etc/X11/xorg.conf.d/10-monitor.conf<\n>
+cat /var/log/Xorg.0.log | grep -i "1920x1080"<\n>
+yay nvidia-settings
+nvidia-smi 
+yay nvidia
+sddm-wayland
+yay sddm-wayland
+sddm --version<\n>
+sddm --help
+sudo pacman -Syu sddm<\n>
+sddm --help
+sudo sddm --example-config > /etc/sddm.conf<\n>
+sudo nano /etc/sddm.conf<\n>
+pacman -Qi sddm | grep Version<\n>
+pacman -Q sddm<\n>
+loginctl show-session $(loginctl | grep sddm | awk '{print $1}') -p Type<\n>
+loginctl<\n>
+ps -e | grep sddm<\n>
+journalctl -u sddm -b | grep -i "DisplayServer"<\n>
+sudo nano /etc/default/grub<\n>
+sudo grub-mkconfig -o /boot/grub/grub.cfg<\n>
+sudo reboot<\n>
+cat /sys/module/nvidia_drm/parameters/modeset<\n>
+sudo cat /sys/module/nvidia_drm/parameters/modeset<\n>
+ls /sys/class/drm/<\n>
+grep -H . /sys/class/drm/*/status<\n>
+sudo nano /etc/X11/xorg.conf.d/10-monitor.conf<\n>
+mkdir ~/MC
+cd MC/
+ls
+npm init motion-canvas@latety
+npm init motion-canvas@latet
+npm init motion-canvas@latest
+npm init @motion-canvas@latest
+cd anim-test/
+ls
+npm install
+cd MC/
+ls
+cd anim-test/
+ls
+cd src/
+ls
+cd scenes/
+ls
+code example.tsx
+npm start
+shutdown now\
+shutdown now
+code ~/.config/hypr/hyprland.conf
+overview:toggle
+hyprctl pluginsd
+hyprctl plugins
+hyprpm
+hyprpm list
+hyprctl dispatch overview:toggle<\n>
+hyprctl --help
+hyprctl plugin --help
+hyprctl plugin list
+hyprctl version<\n>
+hyprpm update<\n>hyprpm reload<\n>
+hyprctl dispatch exit<\n>
+hyprctl plugin list
+ls ~/.local/share/hyprpm/plugins/Hyprspace/<\n>
+hyprpm update<\n>hyprpm build Hyprspace<\n>
+ls ~/.local/share/hyprpm/plugins/Hyprspace/<\n>
+hyprpm reload<\n>
+hyprctl plugin list<\n>
+code ~/.config/hypr/hyprland.conf
+code ~/.config/waybar/style.css
+yay -R code
+yay code
+yay -S visual-studio-code-bin<\n>
+code
+sudo apt update<\n>sudo apt install qemu-kvm libvirt-daemon-system libvirt-clients bridge-utils virt-manager<\n>sudo systemctl enable --now libvirtd<\n>
+sudo pacman -S qemu virt-manager virt-viewer dnsmasq vde2 bridge-utils openbsd-netcat libvirt edk2-ovmf
+sudo systemctl enable --now libvirtd<\n>sudo systemctl start libvirtd<\n>
+lsblk
+sudo mount -o rw /dev/sda /mnt/usb
+sudo mount -o rw /dev/sda1 /mnt/usb
+mkdir /mnt/usb
+sudo mkdir /mnt/usb
+mkdir /mnt/usb
+sudo mount -o rw /dev/sda1 /mnt/usb
+reboot\
+reboot
+code ~/.config/hypr/hyprland.conf
+lsusb | grep Sony<\n>
+sudo pacman -Syu<\n>sudo pacman -S steam game-devices-udev sc-controller<\n>
+sudo pacman -S xone xpadneo<\n>yay -S xboxdrv<\n>
+sudo pacman -S sc-controller<\n>
+yay sc-controller<\n>
+yay sixpair
+sc-controller 
+yay game-devices-udev
+yay jstest-gtk
+lsusb | grep -i bluetooth<\n>
+lsusb
+systemctl status bluetooth<\n>
+sudo systemctl enable --now bluetooth<\n>
+bluetoothctl<\n>
+sudo modprobe btusb<\n>
+sudo pacman -S blueman<\n>
+blueman-manager<\n>
+sudo modprobe btusb<\n>
+sudo modprobe btintel<\n>sudo modprobe btrtl<\n>
+make menuconfig<\n>
+shutdown now
+shu
+shutdown now
+yay bluez
+bluez
+lsmod
+lsmod | grep btusb
+modprobe btusb
+sudo modprobe btintel<\n>sudo modprobe btrtl<\n>
+sudo modprobe btusb
+lsmod | grep btusb
+clear
+systemctl status bluetooth<\n>
+sudo systemctl enable --now bluetooth<\n>
+systemctl status bluetooth<\n>
+bluetoothctl<\n>
+bluetoothctl 
+reboot
+systemctl status bluetooth<\n>
+lsmod | grep btusb
+modprobe btusb
+sudo modprobe btusb
+lsmod | grep btusb
+sudo systemctl enable bluetooth<\n>
+systemctl status bluetooth<\n>
+sudo systemctl enable --now bluetooth<\n>
+bluetoothctl 
+lsusb
+dmesg | grep -i bluetooth<\n>dmesg | grep -i usb<\n>
+sudo dmesg | grep -i bluetooth<\n>sudo dmesg | grep -i usb<\n>
+sudo pacman -S bluez bluez-utils linux-firmware
+lsusb -d 0bda:1a2b<\n>
+sudo pacman -S usb_modeswitch<\n>
+lsusb
+sudo sixpair
+reboot
+code ~/.config/vesktop/themes/system24.theme.css
+code ~/.config/waybar/style.css
+git clone https://github.com/adriankarlen/textfox.git
+cd textfox/
+ls
+cd ~/.mozilla/firefox/
+ls
+sh tf-install.sh
+cd ~/.mozilla/firefox/
+ls
+cd pwkmhe0b.default-release/
+ls
+cd chrome/
+ls
+code defaults.css
+cd ~/.mozilla/firefox/
+cd pwkmhe0b.default-release/
+cd chrome/
+ls
+cd ~/.config/waybar/
+ls
+code style.css
+code ~/.config/kitty/kitty.conf
+reboot
+code ~/.config/clash/config.yaml
+sh ~/.config/restart_ObhodBlokirovok.sh
+sudo ap-get install vim
+vim
+nvim
+dot status
+dot add ~/.config/hypr/
+dot add ~/.config/kitty/
+dot add ~/.config/vesktop/themes/system24.theme.css
+dot add ~/.mozilla/firefox/pwkmhe0b.default-release/
+dot commit -m "some changes + firefox \ vesktop theme"
+dot commit -m "some changes + firefox and vesktop theme"
+dot push -u origin main
+shutdown now
+yay livesplit
+yay obs
+yay davinci
+vim .vimrc
+df -h
+sudo pacman -S vulkan-intel lib32-vulkan-intel<\n>
+reboot
+sudo pacman -Syu
+yay
+df -h<\n>
+sudo umount /mnt/d1/<\n>
+sudo fsck -f /dev/sdXY<\n>
+sudo fsck -f /dev/sdnvme0n1p1<\n>
+sudo fsck -f /dev/nvme0n1p1<\n>
+sudo pacman -S fsck.ntfs-3g
+sudo pacman -S fsck.ntfs
+sudo pacman -S fsck
+sudo yay fsck.ntfs
+syay fsck.ntfs
+yay fsck.ntfs
+yay fsck
+sudo pacman -S ntfs-3g<\n>
+lsblk -f
+sudo mount -t ntfs-3g /dev/nvme0n1p1 /mnt/d1
+reboot
+shutdown now
+# Проверка VT-x/VT-d<\n>egrep -wo 'vmx|svm' /proc/cpuinfo | sort -u<\n><\n># Проверка IOMMU (Intel)<\n>dmesg | grep -e DMAR -e IOMMU<\n>
+egrep -wo 'vmx|svm' /proc/cpuinfo | sort -u
+egrep -wo 'vmx|svm' /proc/cpuinfo
+dmesg | grep -e DMAR -e IOMMU
+sudo apt install qemu-kvm libvirt-daemon-system libvirt-clients virt-manager ovmf
+grep -E 'vmx|svm' /proc/cpuinfo | sort -u
+grep -E 'vmx|svm' /proc/cpuinfo | sort 
+dmesg | grep -e DMAR -e IOMMU
+sudo nano /etc/default/grub<\n>
+             neofetch
+fastfetch
+systemctl status awgproxy.service
+systemctl status clash-meta.service
+code ~/.config/clash/config.yaml
+systemctl status clash-meta.service
+systemctl status awgproxy.service
+sh ~/.config/restart_ObhodBlokirovok.sh
+systemctl status awgproxy.service
+reboot
+shutdown now
+reboot
+shutdown now
+code ~/.config/clash/config.yaml
+sh ~/.config/restart_ObhodBlokirovok.sh
+code ~/.config/clash/config.yaml
+sh ~/.config/restart_ObhodBlokirovok.sh
+yay
+sudo pacman -S plasma-desktop
+sudo pacman -Qtdq<\n>
+reboot
+code /home/g0shark/.config/hypr/hyprland.conf
+sudo pacman -S docker
+sudo pacman -Syu --needed \<\n>    docker \<\n>    docker-compose \<\n>    freerdp \<\n>    git \<\n>    base-devel<\n>
+sudo pacman -S docker-compose
+sudo pacman -S freerdp
+sudo usermod -aG docker g0shark
+reboot
+sudo pacman -S qemu-full
+sudo pacman -S libvirt
+sudo pacman -S edk2-ovmf
+sudo usermod -aG kvm g0shark
+sudo modprobe ip_tables<\n>sudo modprobe iptable_nat<\n>
+echo -e "ip_tables\niptable_nat" | sudo tee /etc/modules-load.d/winboat.conf<\n>
+yay winboal
+yay winboa
+yay winboat
+sudo systemctl enable docker
+sudo systemctl start docker
+cd .winboat/
+ls
+cat winboat.log
+cat install.log
+sudo modprobe ip_tables<\n>sudo modprobe iptable_nat<\n>
+echo -e "ip_tables\niptable_nat" | sudo tee /etc/modules-load.d/winboat.conf<\n>
+bash -c 'echo -e "ip_tables\niptable_nat" | sudo tee /etc/modules-load.d/winboat.conf'<\n>
+ls -l /dev/kvm<\n>
+groups g0shark
+docker ps<\n>
+df -h /var<\n>
+docker ps -a<\n>
+docker logs WinBoat
+systemctl status awgproxy.service
+systemctl status clash-meta.service
+reboot
+dot status
+obsidian --help
+obsidian README.md
+obsidian ~/
+reboot 
+yay easyeffect
+lsblk
+parted
+sudo parted
+reboot
+lsblk
+cfdisk
+cfdisk /dev/nvme1n1
+lsblk
+shutdown now
+sudo pacman -S telegream
+sudo pacman -S telegram
+sudo pacman
+sudo pacman -h
+sudo pacman -U
+ya
+yay
+sudo pacman -Rns plasma-desktop
+sudo pacman -Qtdq<\n>
+yay visual-studio-code
+yay clash-meta
+yay -Q
+yay clash
+yay mihomo
+cd /etc/systemd/system/
+ls
+code ~/.config/clash/config.yaml
+code ~/.config/awgproxy/config.conf
+code /etc/systemd/system/awgproxy.service
+code /etc/systemd/system/clash-meta.service
+sudo nano /etc/default/grub<\n>
+systemctl status systemd-resolved
+yay r2modman
+sudo journalctl -p 3 -xb<\n>
+sudo pacman -Syu<\n>
+shutdown now
+sudo pacman -Syu<\n>
+nvidia-settings 
+yay hydra
+yay hydra-launcher
+yay qbittorrent
+code ~/dst/bin/settings/account_name.txt
+yay radmin
+yay hamachi
+hamachi
+hamachi --help
+hamachi login g0shark
+hamachi start
+/etc/init.d/logmain-hamachi start
+logmain-hamachi start
+/etc/init.d/logmein-hamachi start
+hamachi start
+sudo /etc/init.d/logmein-hamachi start<\n>
+sudo /etc/init.d/logmein-hamachi status<\n>
+systemctl status logmein-hamachi<\n>
+sudo systemctl start logmein-hamachi<\n>
+sudo systemctl enable logmein-hamachi<\n>
+systemctl status logmein-hamachi<\n>
+hamachi start
+sudo hamachi start
+sudo hamachi login
+sudo hamachi set-nick SharkArch
+sudo hamachi create dst_ng 322
+sudo hamachi list
+yay zerotier
+zerotier
+zerotier-cli 
+zerotier-one 
+zerotier-cli 
+sudo zerotier-cli 
+reboot
+zerotier-cli 
+sudo zerotier-cli 
+sudo zerotier-cli join 65228d8d6dbf8d07
+journalctl -u zerotier-one -f<\n>
+sudo systemctl status zerotier-one<\n>
+sudo systemctl start zerotier-one<\n>
+sudo systemctl enable zerotier-one<\n>
+journalctl -u zerotier-one -f<\n>
+sudo zerotier-cli join 65228d8d6dbf8d07
+code ~/dst/bin64/settings/account_name.txt
+ping 77.51.219.97
+ping10.147.20.83
+ping 10.147.20.83
+sudo zerotier-cli 
+sudo zerotier-cli peers
+reboot
+yay protonup-qt
+protonup-qt<\n>
+yay portproton
+shutdown now
+uname -a
+uname
+shutdown now
+sudo pacman -S sqlitebrowser<\n>
+yay postman
+yay android-studio
+git clone -b var1 https://github.com/Anastasiyatarazevich/S_app.git
+cd S_app/
+grep -rhoP 'android:textSize="?\K\d+' res/ | sort -n | uniq<\n>
+cd app/src/main/
+ls
+grep -rhoP 'android:textSize="?\K\d+' res/ | sort -n | uniq<\n>
+open res/**/*.xml | lines | where $it =~ 'android:textSize=' | str replace -r '.*android:textSize="(\d+).*' '$1' | sort | uniq | str collect ' '<\n>
+open res/**/*.xml | lines | where $it =~ 'android:textSize=' | str replace -r '.*android:textSize="(\d+).*' '$1' | sort | uniq | str join ' '<\n>
+open res/**/*.xml | lines | where $it =~ 'textSize=' | str replace -r '.*textSize="(\d+).*' '$1' | sort | uniq | str join ' '<\n>
+open res/values/strings.xml | lines | where $it =~ '<string name=' | str replace -r '.*name="(\w+)".*' '$1' | sort | uniq 
+cd app/src/main/
+cd S_app/
+open res/values/strings.xml | lines | where $it =~ '<string name=' | str replace -r '.*name="(\w+)".*' '$1' | sort | uniq
+open src/**/*.kt, src/**/*.java, res/**/*.xml | lines | where $it =~ '@string/' | str replace -r '.*@string/(\w+).*' '$1' | sort | uniq
+sudo kill
+code ~/.config/awgproxy/config.conf
+code ~/.config/hypr/hyprland.conf
+reboot
+systemctl status clash-meta.service
+systemctl status awgproxy
+shutdown now
+code ~/.config/clash/config.yaml
+sh ~/.config/restart_ObhodBlokirovok.sh
+shutdown now
+yay gamescope
+yay plasma-desktop
+yay sddm-kcm
+yay visual-studio
+reboot
+reboo
+yay
+sudo pacman -Syu
+sudo pacman -S fish
+which fish<\n>
+echo /usr/bin/fish | sudo tee -a /etc/shells<\n>
+chsh -s /usr/bin/fish<\n>
+help
+ls
+code ~/.config/kitty/kitty.conf
+shutdown now
+code /etc/sddm.conf.d/monitors.conf
+code /usr/share/sddm/scripts/Xsetup
+journalctl -u sddm -b<\n>
+sudo nvidia-settings 
+nvidia-settings 
+sudo pacman -S xfce4 xfce4-goodies<\n>
+sudo pacman -Suu
+sudo pacman -Syu
+reboot
+pacman -S kvm
+sudo pacman -S kvm
+sudo pacman -S qemu
+yay kvm
+yay libvirt
+sudo pacman -S libvirt
+sudo code /etc/default/grub
+code /etc/default/grub
+sudo grub-mkconfig -o /boot/grub/grub.cfg<\n>
+reboot
+lsmod | grep kvm
+dmesg | grep -i IOMMU
+sudo dmesg | grep -i IOMMU
+cat /proc/cmdline
+clear
+lspci -nnk
+lsblk
+sudo mount -t ntfs-3g /dev/sda1 /mnt/flash
+mkdir /mnt/flash
+sudo mkdir /mnt/flash
+sudo mount -t ntfs-3g /dev/sda1 /mnt/flash
+sudo ss -lpn | grep 192.168.122.1<\n>
+sudo ss -ltnp | grep LISTEN<\n>
+sudo virsh net-edit default<\n>
+sudo pacman -S vi
+sudo EDITOR=nano virsh net-edit default<\n>
+sudo virsh net-destroy default<\n>sudo virsh net-start default<\n>sudo virsh net-autostart default<\n>
+ip addr show<\n>
+sudo EDITOR=nano virsh net-edit default<\n>
+ip addr show virbr0<\n>
+sudo lsof -i :53<\n>
+ip link show<\n>
+sudo ip link add name br0 type bridge<\n>sudo ip link set dev br0 up<\n>sudo ip link set dev Meta master br0<\n>
+sudo ip link add name br0 type bridge
+sudo ip link set dev br0 up
+sudo ip link set dev Meta master br0
+sudo ip link set dev enp5s0 master br0
+systemctl status awgproxy
+id addr show
+id rouye
+id route
+ip addr show
+sudo ip addr flush dev enp5s0
+sudo ip link set enp5s0 up
+sudo ip link set br0 up
+sudo dhclient br0
+sudo declient br0
+sudo pacman -S dhclient
+       sudo mkdir -p /etc/libvirt/hooks
+sudo wget 'https://raw.githubusercontent.com/PassthroughPOST/VFIO-Tools/master/libvirt_hooks/qemu' \<\n>     -O /etc/libvirt/hooks/qemu<\n>sudo chmod +x /etc/libvirt/hooks/qemu
+sudo wget 'https://raw.githubusercontent.com/PassthroughPOST/VFIO-Tools/master/libvirt_hooks/qemu' -O /etc/libvirt/hooks/qemu<\n>sudo chmod +x /etc/libvirt/hooks/qemu
+sudo curl -O /etc/libvirt/hooks/qemu -L https://raw.githubusercontent.com/PassthroughPOST/VFIO-Tools/master/libvirt_hooks/qemu<\n>
+sudo wget 'https://raw.githubusercontent.com/PassthroughPOST/VFIO-Tools/master/libvirt_hooks/qemu' -O /etc/libvirt/hooks/qemu
+code ~/.config/clash/config.yaml
+sh ~/.config/restart_ObhodBlokirovok.sh
+sudo chmod +x /etc/libvirt/hooks/qemu
+sudo service libvirtd restart
+sudo systemctl restart libvirtd
+reboot
+code /etc/libvirt/hooks/qemu.d/
+lspci -nnk
+lspci -nnk | grep nvidia
+sudo pacman -S dhclient
+sudo ip link add name br0 type bridge<\n>sudo ip link set dev br0 up<\n>sudo ip link set dev enp3s0 master br0<\n>sudo dhclient br0<\n>
+ip addr
+ip addr
+code /etc/libvirt/hooks/qemu.d/
+sudo systemctl restart libvirtd
+sudo ip link set dev enp3s0 master br0
+sudo ip link set dev enp5s0 master br0
+sudo dhclient br0
+sudo chmod +x /etc/libvirt/hooks/qemu.d/win11/prepare/begin/script.sh
+sudo chmod +x /etc/libvirt/hooks/qemu.d/win11/prepare/begin/start.sh
+sudo chmod +x /etc/libvirt/hooks/qemu.d/win11/release/end/revert.sh
+systemctl status awgproxy
+sh ~/.config/restart_ObhodBlokirovok.sh
+systemctl status awgproxy
+reboot
+sudo systemctl stop awgproxy
+sudo systemctl stop clash-meta
+ip addr
+sudo pacman -Syu openssh<\n>
+sudo systemctl enable sshd.service<\n>sudo systemctl start sshd.service<\n>
+sudo systemctl status sshd.service<\n>
+sudo ufw allow 22/tcp<\n>sudo ufw reload<\n>
+sudo systemctl status sshd.service<\n>
+sudo systemctl stop clash-meta
+sudo systemctl stop awgproxy
+sudo systemctl restart sshd.service<\n>
+sudo systemctl status sshd.service<\n>
+ip addr
+lsmod | grep nv
+sudo systemctl status sshd.service<\n>
+sudo systemctl restart sshd.service<\n>
+sudo systemctl status sshd.service<\n>
+ip addr
+sudo systemctl status sshd.service<\n>
+code /etc/libvirt/hooks/qemu.d/
+sudo chmod +x /etc/libvirt/hooks/qemu.d/win11/prepare/begin/start.sh
+code /etc/libvirt/hooks/qemu.d/
+sudo chmod +x /etc/libvirt/hooks/qemu.d/win11/prepare/begin/start.sh
+code /etc/libvirt/hooks/qemu.d/
+systemctl list-units --type=service | grep cooler<\n>
+sudo systemctl stop coolercontrold<\n>sudo systemctl disable coolercontrold<\n>
+sudo pkill -9 coolercon<\n>sudo pkill -9 coolercontrold<\n>
+ps aux | grep cooler<\n>
+code /etc/libvirt/hooks/qemu.d/
+sudo chmod +x /etc/libvirt/hooks/qemu.d/win11/prepare/begin/start.sh
+code /etc/libvirt/hooks/qemu.d/
+sudo chmod +x /etc/libvirt/hooks/qemu.d/win11/prepare/begin/start.sh
+sudo systemctl stop awgproxyu
+sudo systemctl stop clash-meta
+sudo systemctl stop awgproxy
+sudo systemctl stop clash-meta
+ip addrt
+ip addr
+sudo systemctl stop clash-meta
+sudo systemctl stop awgproxy
+ip addr
+sudo systemctl stop awgproxy
+sudo systemctl stop clash-meta
+virsh net-list --all<\n>
+sudo ip link add name br0 type bridge<\n>sudo ip link set dev br0 up<\n>sudo ip link set dev enp3s0 master br0<\n>sudo dhclient br0<\n>
+sudo ip link add name br0 type bridge<\n>sudo ip link set dev br0 up<\n>sudo ip link set dev enp5s0 master br0<\n>sudo dhclient br0<\n>
+sudo ip link set dev enp5s0 master br0
+sudo dhclient br0
+ip addr
+code ~/.config/clash/config.yaml
+iptables -t nat -A PREROUTING -i br0 -p tcp -j REDIRECT --to-port 7892
+systemctl status awgproxy
+ip addr show virbr0<\n>
+sudo virsh edit win11
+sudo nmcli connection add type bridge ifname br0 con-name br0
+sudo nmcli connection modify br0 ipv4.addresses 192.168.100.1/24 ipv4.method manual
+sudo nmcli connection up br0
+systemctl status awgproxy
+code ~/.config/clash/config.yaml
+sh ~/.config/restart_ObhodBlokirovok.sh
+systemctl status awgproxy
+systemctl status clash-meta.service
+echo 1 | sudo tee /proc/sys/net/ipv4/ip_forward<\n>
+sh ~/.config/restart_ObhodBlokirovok.sh
+sudo nft list ruleset | grep 789<\n>
+sudo ip rule add fwmark 1 lookup 100<\n>sudo ip route add local 0.0.0.0/0 dev lo table 100
+sudo iptables -t mangle -N CLASH
+sudo iptables -t mangle -A CLASH -d 127.0.0.0/8 -j RETURN<\n>sudo iptables -t mangle -A CLASH -d 224.0.0.0/4 -j RETURN<\n>sudo iptables -t mangle -A CLASH -d 255.255.255.255/32 -j RETURN
+sudo iptables -t mangle -A CLASH -p tcp -j TPROXY --on-port 7893 --tproxy-mark 1<\n>sudo iptables -t mangle -A CLASH -p udp -j TPROXY --on-port 7893 --tproxy-mark 1<\n>
+sudo iptables -t mangle -A PREROUTING -i br0 -j CLASH
+sudo iptables -t nat -A PREROUTING -i br0 -p udp --dport 53 -j REDIRECT --to-ports 53<\n><\n>
+sudo iptables -t mangle -vnL CLASH<\n>
+sudo iptables -t mangle -A PREROUTING -i br0 -j CLASH<\n>
+ip addr show<\n>ip route<\n>
+sh ~/.config/restart_ObhodBlokirovok.sh
+systemctl status clash-meta.service
+systemctl status awgproxy
+systemctl status clash-meta.service
+systemctl status awgproxy
+systemctl stop awgproxy
+awgproxy
+awgproxy --help
+~/go/bin/awgproxy --help
+~/go/bin/awgproxy -c ~/.config/awgproxy/config.conf
+reboot
+systemctl status awgproxy
+systemctl status clash-meta.service
+code ~/.config/clash/config.yaml
+sh ~/.config/restart_ObhodBlokirovok.sh
+systemctl status clash-meta.service
+systemctl status awgproxy
+systemctl status clash-meta.service
+dig @127.0.0.1 youtube.com<\n>
+systemctl status clash-meta.service
+sh ~/.config/restart_ObhodBlokirovok.sh
+systemctl status clash-meta.service
+sh ~/.config/restart_ObhodBlokirovok.sh
+systemctl status clash-meta.service
+ip addr
+iptables -t nat -F<\n>iptables -t mangle -F<\n>
+sudo iptables -t nat -F<\n>sudo iptables -t mangle -F<\n>
+sh ~/.config/restart_ObhodBlokirovok.sh
+sudo iptables -t nat -F<\n>sudo iptables -t mangle -F<\n>
+reboot
+ip add
+ip link set br0 down
+sudo ip link set br0 down
+sudo ip link delete br0 type bridge
+sh ~/.config/restart_ObhodBlokirovok.sh
+reboot
+systemctl status clash-meta.service
+sudo iptables -t mangle -D PREROUTING -i br0 -j CLASH 2>/dev/null
+sudo iptables -t mangle -F CLASH<\n>sudo iptables -t mangle -X CLASH\
+sudo iptables -t nat -D PREROUTING -i br0 -p udp --dport 53 -j REDIRECT --to-ports 53 2>/dev/null<\n>
+sudo iptables -t nat -F
+sudo iptables -F<\n>sudo iptables -t nat -F<\n>sudo iptables -t mangle -F<\n>sudo iptables -X<\n>sudo iptables -t nat -X<\n>sudo iptables -t mangle -X<\n>
+sudo ip rule del fwmark 1 lookup 100 2>/dev/null<\n>sudo ip route flush table 100 2>/dev/null<\n>
+sudo ip link set br0 down<\n>sudo nmcli connection delete br0<\n>
+sudo sysctl -w net.ipv4.ip_forward=0<\n>
+systemctl status clash-meta.service
+systemctl status awgproxy.service
+systemctl status clash-meta.service
+code ~/.config/clash/config.yaml
+sudo iptables -t nat -A OUTPUT -p tcp -j REDIRECT --to-ports 7890<\n>sudo iptables -t nat -A OUTPUT -p udp --dport 53 -j REDIRECT --to-ports 53<\n>
+systemctl status clash-meta.service
+sh ~/.config/restart_ObhodBlokirovok.sh
+systemctl status clash-meta.service
+sh ~/.config/restart_ObhodBlokirovok.sh
+systemctl status clash-meta.service
+reboot
+sudo ip route add default dev tun0
+ip addr
+systemctl status clash-meta.service
+systemctl status awgproxy.service
+systemctl status clash-meta.service
+code ~/.config/clash/config.yaml
+ip a | grep tun<\n>
+sudo modprobe tun<\n>
+lsmod | grep tun<\n>
+ip a | grep tun<\n>
+systemctl status clash-meta.service
+resolvectl status<\n>
+sudo ip tuntap add dev clash0 mode tun
+sudo ip link set clash0 up
+sudo nano /etc/resolv.conf<\n>
+ip addr
+code ~/.config/clash/config.yaml
+sh ~/.config/restart_ObhodBlokirovok.sh
+ip addr
+virsh net-dumpxml default<\n>
+virsh net-edit default<\n>
+sudo virsh -h
+sudo virsh net-list
+sudo virsh net-edit default
+sudo virsh EDITOR=nano  net-edit default
+sudo virsh EDITOR=nano net-edit default
+sudo virsh net-edit EDITOR=nano default
+sudo EDITOR=nano virsh net-edit default
+virsh net-destroy default 
+virsh net-destroy default
+virsh net-undefine default
+virsh net-list
+virsh net-list --all
+reboot
+virsh net-list --all
+virsh net-list
+virsh net-list --all
+cat /var/log/libvirt/qemu/win11.log
+sudo cat /var/log/libvirt/qemu/win11.log
+sudo code /var/log/libvirt/qemu/win11.log
+\code /var/log/libvirt/qemu/win11.log
+code /var/log/libvirt/qemu/win11.log
+sudo code /var/log/libvirt/qemu/win11.log
+sudo code /var/log/libvirt/qemu/win11.log --no-sandbox
+sudo code --no-sandbox /var/log/libvirt/qemu/win11.log
+sudo nano /var/log/libvirt/qemu/win11.log
+lspci
+code ~/.config/hypr/hyprland.conf
+lspci
+aplay -l<\n>
+pactl info<\n>
+sudo pacman -S alsa-utils pulseaudio
+sudo pacman -S alsa-utils 
+aplay -l 
+reboot
+systemctl status clash-meta.service
+find /sys/kernel/iommu_groups/ -type l | grep 0000:00:1f.3<\n>
+lspci | grep -i audio<\n>
+find /sys/kernel/iommu_groups/ -type l | grep 00:1f.3<\n>
+find /sys/kernel/iommu_groups/  | grep 00:1f.3<\n>
+find /sys/kernel/iommu_groups/ l | grep 00:1f.3<\n>
+ls -l /sys/kernel/iommu_groups/*/devices/ | grep 00:1f.3<\n>
+sudo pacman -S qemu-kvm
+yay qemu-kvm
+yay sudo pacman -Syu qemu virt-manager libvirt edk2-ovmf ovmf virt-viewer
+sudo pacman -Syu qemu virt-manager libvirt edk2-ovmf ovmf virt-viewer
+lsblk
+sudo mount -t ntfs-3g /dev/nvme1n1p1 /mnt/d1
+reboot
+yay -h
+sudo pacman -S pipewire pipewire-pulse pipewire-alsa
+shutdown now
+lscpu
+sudo pacman -S edk2-ovmf<\n>
+cp /usr/share/edk2-ovmf/x64/OVMF_VARS.fd ~/.local/share/libvirt/qemu/nvram/win11_VARS.fd<\n>
+reboot
+sudo pacman -S sbsigntools efitools<\n>
+sbctl status
+sudo pacman -S sbctl
+sbctl status
+sbctl create-keys
+sudo sbctl create-keys
+sudo sbctl enroll-keys -m
+reboot
+sudo sbctl enroll-keys -m
+sbctl status
+sudo sbctl verify
+sbctl verify
+sudo sbctl verify
+sudo sbctl verify | grep not
+sudo sbctl verify | grep signed
+sudo sbctl verify | grep is | grep now | grep signed
+sudo sbctl verify | grep "is not signed"
+sudo sbctl verify | grep failed
+sudo sbctl verify | grep signed
+sudo sbctl verify >> ~/out.txt
+sudo sbctl verify | ~/out.txt
+sudo sbctl verify | write ~/out.txt
+sudo sbctl verify | out.txt
+sudo sbctl verify | grep
+sudo sbctl verify
+sudo sbctl sign -s /boot/vmlinuz-linux
+sudo sbctl sign -s /boot/grub/x86_64-efi/grub.efi
+sudo sbctl sign -s /boot/grub/x86_64-efi/core.efi
+sudo sbctl sign -s /boot/EFI/BOOT/BOOTX64.EFI
+sbctl verify | sed 's/✗ /sbctl sign -s /e'<\n>
+sudo sbctl verify | sed 's/✗ /sbctl sign -s /e'<\n>
+sbctl
+sbctl status
+sbctl verify<\n>
+sudo sbctl verify<\n>
+sudo sbctl sign-all<\n>
+reboot
+sbctl statis
+sbctl status
+sudo sbctl create-keys<\n>
+sudo sbctl enroll-keys --microsoft<\n>
+sbctl verify<\n>
+sudo sbctl verify<\n>
+sudo sbctl sign-all<\n>
+reboot
+sbctl status
+sbctl verify<\n>
+sudo sbctl verify<\n>
+sudo sbctl sign -s /boot/EFI/GRUB/grubx64.efi<\n>
+ls /boot/EFI/<\n>
+sudo find /boot -type f -name 'grubx64.efi'<\n>
+sudo find /boot/efi -type f -name 'grubx64.efi'<\n>
+sudo lsblk -f<\n>
+sudo mount /dev/nvme0n1p1 /mnt/usb
+sudo sbctl verify<\n>
+<\n><\n>grub-mkstandalone
+grub-install --target=x86_64-efi --efi-directory=/boot --bootloader-id=GRUB \<\n>--recheck --modules="tpm" --disable-shim-lock<\n>
+sudo mkinitcpio -P
+reboot
+grub-mkconfig -o /boot/grub/grub.cfg<\n>
+sudo grub-mkconfig -o /boot/grub/grub.cfg<\n>
+sbctl list-keys<\n>
+sbctl status
+sbctl verify<\n>
+sudosbctl verify<\n>
+sudo sbctl verify<\n>
+code /boot/grub/grub.cfg<\n>
+code /etc/default/grub
+grub-install --target=x86_64-efi --efi-directory=esp --bootloader-id=GRUB --modules="tpm" --disable-shim-lock
+sudo grub-install --target=x86_64-efi --efi-directory=esp --bootloader-id=GRUB --modules="tpm" --disable-shim-lock
+cat /etc/fstab
+lsblk -f
+code /usr/share/grub/sbat.csv
+lsblk<\n>
+sudo lsblk -f<\n>
+code ~/.config/clash/config.yaml
+sh ~/.config/restart_ObhodBlokirovok.sh
+sudo lsblk -f<\n>reboot
+code /etc/default/grub
+grub-install --target=x86_64-efi \<\n>             --efi-directory=esp \<\n>             --modules="${GRUB_MODULES}" \<\n>             --sbat /usr/share/grub/sbat.csv<\n>
+grub-install --target=x86_64-efi \<\n>             --efi-directory=esp --modules="${GRUB_MODULES}" --sbat /usr/share/grub/sbat.csv<\n>
+grub-install --target=x86_64-efi --efi-directory=esp --modules="part_gpt part_msdos ext2 fat normal linux configfile gzio search echo all_video" --sbat /usr/share/grub/sbat.csv<\n>
+mount | grep efi<\n>
+lsblk -f<\n>
+grub-install --target=x86_64-efi --efi-directory=/boot --modules="part_gpt part_msdos ext2 fat normal linux configfile gzio search echo all_video" --sbat /usr/share/grub/sbat.csv
+lsblk
+sudo mount /dev/sda1 /mnt/usb
+sudo umount /dev/sda1
+sudo mount -t ntfs-3g /dev/sda1 /mnt/usb
+sudo umount /dev/sda1
+sudo umount /mnt/usb
+shutdown now
+grub-install --target=x86_64-efi --efi-directory=/boot --bootloader-id=GRUB --modules="tpm" --disable-shim-lock
+lsblk
+grub-install --target=x86_64-efi --efi-directory=/boot --bootloader-id=GRUB --modules="tpm" --disable-shim-lock
+lsblk -f
+sudo grub-install --target=x86_64-efi --efi-directory=/boot --bootloader-id=GRUB --modules="tpm" --disable-shim-lock --recheck
+sudo grub-mkconfig -o /boot/grub/grub.cfg<\n>
+reboot
+sbctl status
+sbctl verify<\n>
+sudo sbctl verify<\n>
+sbctl verify | sed 's/✗ /sbctl sign -s /e'
+sudo sbctl verify | sed 's/✗ /sbctl sign -s /e'
+sudo sbctl verify
+sudo sbctl sign -s /boot/EFI/GRUB/grubx64.efi
+sudo sbctl sign -s /boot/grub/x86_64-efi/core.efi
+sudo sbctl sign -s /boot/grub/x86_64-efi/grub.efi
+reboot
+sbctl statis
+sbctl status
+sudo usermod -aG kvm,libvirt g0shark
+sudo pacman -Syu ovmf qemu virt-manager edk2-ovmf<\n>
+sudo pacman -S swtpm swtpm-tools<\n>
+sudo pacman -S swtpm
+sudo mount -t ntfs-3g /dev/sda1 /mnt/usb
+sudo y
+sudo mount -t ntfs-3g /dev/sda1 /mnt/usb
+openssl req -newkey rsa:2048 -nodes keyout PKpriv.key -x509 -days 365 -out PK.crt
+openssl req -newkey rsa:2048 -nodes -keyout PKpriv.key -x509 -days 365 -out PK.crt
+dd if=/dev/zero of=keys.img bs=4M count=1
+mkfs.vfat keys.img
+mkfs.fat -F32 keys.img
+mkfs.fat -F32 keys.imgsudo pacman -S dosfstools<\n>
+sudo pacman -S dosfstools<\n>
+mkfs.vfat keys.img
+losetup /dev/loopX keys.img
+losetup --find --show keys.img
+ls
+sudo losetup --find --show keys.img
+sudo mount /dev/loop0 /mnt/flash
+cp PK.der /mnt/flash/PK.der
+cp PK.crt /mnt/flash/PK.crt
+sudo cp PK.crt /mnt/flash/PK.crt
+openssl x509 -in PK.crt -outform der -out PK.der
+sudo yazi
+sudo cp PK.der /mnt/flash/PK.der
+sudo cp ~/Загрузки/MicCorKEKCA2011_2011-06-24.crt /mnt/flash/KEK.crt
+sudo cp ~/Загрузки/MicWinProPCA2011_2011-10-19.crt /mnt/flash/DB.crt
+sudo umount /dev/loop0
+losetup -d /dev/loop0
+sudo losetup -d /dev/loop0
+sudo nano /etc/default/grub<\n>
+code /etc/default/grub<\n>
+reboot
+lsblk
+sudo mount -t ntfs-3g /dev/nvme0n1p1 /mnt/d1
+sudo blkid /dev/nvme0n1p1<\n>
+reboot
+sudo mount -t ntfs-3g /dev/nvme0n1p1 /mnt/d1
+code /etc/fstab
+reboot
+yay ngrok
+ngrok
+sudo pacman -S gnome-keyring libsecret seahorse<\n>
+code ~/.config/hypr/hyprland.conf
+yay dotnet
+yay dotnet9
+yay dotnet 9
+sudo pacman -Syu dotnet-runtime aspnet-runtime<\n>
+sudo sbctl verifu 
+sudo sbctl verifuy
+sudo sbctl verify
+reboot
+yay
+shutdown now
+code /etc/libvirt/qemu.conf
+id -u
+echo $XDG_RUNTIME_DIR<\n>
+pavucontrol
+qpwgraph
+sudo nano /var/log/libvirt/qemu/win11.log
+find /sys/kernel/iommu_groups/ -type l<\n>
+sudo modprobe vfio-pci<\n>echo 8086 a0c8 | sudo tee /sys/bus/pci/drivers/vfio-pci/new_id<\n>
+qemu-system-x86_64 -device help | grep hda
+code ~/.config/waybar/config.jsonc
+sudo pacman -S playerctl<\n>
+playerctl -l
+playerctl play-plause
+playerctl play-pause
+playerctl -l
+playerctl -p chromium.instance14487 play-pause
+playerctl -p chromium.instance14487 metadata
+playerctl
+playerctl -l
+yandex-music --help
+code ~/.config/yandex-music.conf
+yandex-music -h
+code ~/.config/waybar/config.jsonc
+playerctl -l
+playerctl -p '*chromium*' metadata<\n>
+playerctl -p '*chromium*' metadata
+playerctl  metadata
+playerctl play-pause
+playerctl metadata
+code ~/.config/yandex-music/config.json
+code ~/.config/yandex-music.conf
+yandex-music --mpris-name="MyAwesomeMediaPlayer"
+playerctl metadata
+playerctl -l
+playerctl 'chromiu,'
+playerctl -p 'chromium' play-pause
+code ~/.config/yandex-music.conf
+code ~/.config/waybar/config.jsonc
+playerctl -p 'chromium' play-pause
+code ~/.config/waybar/config.jsonc
+code ~/.config/restart_waybar.sh
+code ~/.config/hypr/hyprland.conf
+code ~/.config/restart_ObhodBlokirovok.sh
+kill waybar
+killall waybar
+sh ~/.config/restart_waybar.sh
+playerctl -p chromium play-pause
+lsblk
+sudo mount -t ntfs-3g /dev/nvme0n1p1 /mnt/d1
+code ~/.config/waybar/config.jsonc
+sh ~/.config/restart_waybar.sh
+playerctl -p firefox play-pause
+playerctl -l
+sh ~/.config/restart_waybar.sh
+playerctl -p firefox metadata
+sh ~/.config/restart_waybar.sh
+cd .config/waybar/
+code style.css
+sh ~/.config/restart_waybar.sh
+reboot
+yay ardor
+yay ulta
+reboot
+sudo pwmconfig<\n>
+sudo sensors-detect<\n>sensors<\n>
+sudo pwmconfig<\n>
+reboot
+cd Загрузки/
+ls
+yay rar
+unzip I.Hate.My.Waifu.Streamer.rar
+sudo pacman -S unrar
+cd Загрузки/
+ls
+unrar I.Hate.My.Waifu.Streamer.rar
+unrar I.Hate.My.Waifu.Streamer.rar ~/IHMWS
+unrar I.Hate.My.Waifu.Streamer.rar ~/IHMWS/
+unrar x\ I.Hate.My.Waifu.Streamer.rar ~/IHMWS/
+unrar x I.Hate.My.Waifu.Streamer.rar ~/IHMWS/
+cd ~/IHMWS/
+ls
+cd I.Hate.My.Waifu.Streamer/
+ls
+code `_INSTALL TUTORIAL.txt`
+cd game
+ls
+sh IHMWS.sh
+sudo sh IHMWS.sh
+sudo  IHMWS.sh
+sudo sh IHMWS.sh
+IHMWS.app/
+IHMWS.py
+python IHMWS.py
+python ./IHMWS.py
+python3 ~/IHMWS/I.Hate.My.Waifu.Streamer/game/IHMWS.py
+ls
+cd ..
+ls
+yay unity
+shutdown now
+sudo pacman -S unity3d
+sudo pacman -S unity
+yay unityhub
+cd IHMWS/I.Hate.My.Waifu.Streamer/
+ls
+cd game/
+ls
+cd renpy/
+ls
+cd ..
+yay renpy\
+yay renpy
+reboot
+yay xxmi
+yay zzz
+shutdown now
+unityhub --no-sandbox &
+systemctl status clash-meta.service
+systemctl status awg
+systemctl status awgproxy
+sudo unityhub 
+journalctl -b -1<\n>
+journalctl -p 3 -b -1<\n>
+journalctl --since "30 minutes ago"<\n>
+less /var/log/Xorg.0.log<\n>
+journalctl -b -1 | grep -iE 'gdm|sddm|kde|gnome|xorg|wayland'
+journalctl -p 3 -b -1<\n>
+journalctl -k -b -1 | grep -i -E "killed process|oom"<\n>
+journalctl -b -1 -p 3<\n>
+swapon --show<\n>free -h<\n>
+sudo swapoff /swapfile<\n>
+sudo swapoff /dev/zram0<\n>sudo systemctl stop zram-swap  # если используется сервис<\n>
+echo $((32 * 1024 * 1024 * 1024)) | sudo tee /sys/block/zram0/disksize<\n>
+sudo swapon /dev/zram0
+sudo mkswap /dev/zram0
+swapon --show
+swapon --show<\n>free -h<\n>
+sudo zramctl -r /dev/zram0<\n>
+sudo zramctl -s 4G /dev/zram0  # ставим стандартный размер 4GB (пример)<\n>sudo mkswap /dev/zram0<\n>sudo swapon /dev/zram0<\n>
+lsblk
+sudo modprobe zram<\n>
+echo 4G | sudo tee /sys/block/zram0/disksize<\n>
+lsblk
+sudo zramctl -s 4G /dev/zram0
+sudo modprobe zram<\n>
+sudo zramctl -s 4G /dev/zram0
+zramctl
+zramctl --help
+zramctl MOUNTPOINT
+sudo zramctl MOUNTPOINT
+sudo zramctl -f
+sudo zramctl -s 4G /dev/zram0
+sudo mkswap /dev/zram0
+sudo swapon /dev/zram0
+swapon --show<\n>free -h<\n>
+sudo mount -t ntfs-3g /dev/nvme0n1p1 /mnt/d1
+sudo lsblk -f<\n>
+sudo blkid /dev/nvme0n1p1<\n>
+lsblk
+куищще
+reboot
+sudo blkid /dev/nvme0n1p1<\n>
+sudo blkid /dev/nvme1n1p1<\n>
+lsblk
+sudo mount -t ntfs-3g /dev/nvme0n1p1 /mnt/d1
+sudo mount -t ntfs-3g /dev/nvme1n1p1 /mnt/d1
+sudo blkid /dev/nvme1n1p1<\n>
+sudo nano /etc/fstab
+systemctl status awgproxy
+systemctl status cla
+systemctl status clash-meta
+sudo hamachi stop
+sudo hamachi logoff
+systemctl status clash-meta
+lsblk
+shutdown now
+yay libreoffice
+lsblk
+sudo mount -t ntfs-3g /dev/sda1 /mnt/usb
+sudo umount /dev/sda1
+shutdown now
+reboot
+shutdown now
+cd ./Загрузки/
+tar -xf *.tar.xz
+ls
+cd sleek/
+ls
+code ../setup.sh
+cd .config/grub-theme/
+cd SleekTheme-Dark/
+ls
+sudo sh install.sh
+sudo sbctl verify
+yay plymouth
+code /etc/default/grub<\n>
+sudo plymouth-set-default-theme -R monoarch
+cd /usr/share/plymouth/themes/
+sudo git clone https://github.com/farsil/monoarch.git
+sudo plymouth-set-default-theme -R monoarch
+reboot
+code /etc/mkinitcpio.conf
+sudo mkinitcpio -P<\n>
+code /etc/default/grub<\n>
+sudo grub-mkconfig -o /boot/grub/grub.cfg<\n>
+reboot
+sudo mount -t ntfs-3g /dev/nvme1n1p1 /mnt/d1
+lsblk
+sudo mount -t ntfs-3g /dev/nvme0n1p1 /mnt/d1
+code .config/hypr/hyprland.conf
+code .config/custom-wofi-folders/fast-config/
+code .config/hypr/hyprland.conf
+yay auracle
+auracle
+auracle -h
+yay pacui
+code .config/wofi/config
+wofi --help
+wofi -c /home/g0shark/.config/wofi/config -s /home/g0shark/.config/wofi/style.css --drun-dirs ~/.config/custom-wofi-folders/fast-mount --show drun
+wofi -c /home/g0shark/.config/wofi/config -s /home/g0shark/.config/wofi/style.css --drun-dirs ~/.config/custom-wofi-folders/fast-config --show drun
+ls ~/.config/custom-wofi-folders/fast-config/ | sed 's/\.desktop$//' | wofi --show dmenu
+$env.WOFI_DESKTOP_DIR=~/.config/custom-wofi-folders/fast-config/ wofi -c /home/g0shark/.config/wofi/config -s /home/g0shark/.config/wofi/style.css --drun-dirs ~/.config/custom-wofi-folders/fast-config --show drun
+$env.WOFI_DESKTOP_DIR=~/.config/custom-wofi-folders/fast-config/ & wofi -c /home/g0shark/.config/wofi/config -s /home/g0shark/.config/wofi/style.css --drun-dirs ~/.config/custom-wofi-folders/fast-config --show drun
+$env.WOFI_DESKTOP_DIR=~/.config/custom-wofi-folders/fast-config/ | wofi -c /home/g0shark/.config/wofi/config -s /home/g0shark/.config/wofi/style.css --drun-dirs ~/.config/custom-wofi-folders/fast-config --show drun
+$env.WOFI_DESKTOP_DIR=/home/g0shark/.config/custom-wofi-folders/fast-config/ | wofi -c /home/g0shark/.config/wofi/config -s /home/g0shark/.config/wofi/style.css --drun-dirs ~/.config/custom-wofi-folders/fast-config --show drun
+$env.WOFI_DESKTOP_DIR="/home/g0shark/.config/custom-wofi-folders/fast-config/" | wofi -c /home/g0shark/.config/wofi/config -s /home/g0shark/.config/wofi/style.css --drun-dirs ~/.config/custom-wofi-folders/fast-config --show drun
+$env.WOFI_DESKTOP_DIR=/home/g0shark/.config/custom-wofi-folders/fast-config/ | wofi -c /home/g0shark/.config/wofi/config -s /home/g0shark/.config/wofi/style.css --drun-dirs ~/.config/custom-wofi-folders/fast-config --show drun
+env WOFI_DESKTOP_DIR=~/.config/custom-wofi-folders/fast-config
+wofi --sort-order=recently -c /home/g0shark/.config/wofi/config -s /home/g0shark/.config/wofi/style.css --show drun
+wofi --help
+lsblk
+reboot
+lsblks
+lsblk
+reboot
+lsblk
+reboot
+lsblk
+sudo mount -t ntfs-3g /dev/nvme0n1p1 /mnt/d1
+lsblk
+sudo mount -t ntfs-3g /dev/nvme1n1p1 /mnt/d1
+code .config/custom-wofi-folders/
+chmod +x ~/.config/custom-wofi-folders/fast-config.sh
+~/.config/custom-wofi-folders/fast-config.sh
+~/.config/custom-wofi-folders/fast-mount.sh
+chmod +x ~/.config/custom-wofi-folders/fast-mount.sh
+~/.config/custom-wofi-folders/fast-mount.sh
+kitty lsblk
+kitty --help\
+kitty --help
+kitty --hold lsblk
+yay
+lsblk
+chmod +x ~/.config/custom-wofi-folders/disk-toggle.sh
+chmod +x ~/.config/custom-wofi-folders/usb-toogle.sh
+code .config/hypr/hyprland.conf
+sh ~/.config/custom-wofi-folders/fast-config.sh
+             lsblk
+             AyuGram 
+ldconfig -p | grep libprotobuf-lite<\n>
+sudo ln -s /usr/lib/libprotobuf-lite.so.32.1.0 /usr/lib/libprotobuf-lite.so.32.0.0<\n>sudo ldconfig<\n>
+             AyuGram 
+lsblk
+sudo mount -t ntfs-3g /dev/nvme1n1p1 /mnt/d1
+sudo ntfsfix /dev/nvme1n1p1<\n>sudo mount -t ntfs-3g -o remove_hiberfile /dev/nvme1n1p1 /mnt/d1
+sudo umount /mnt/d1
+sudo ntfsfix /dev/nvme1n1p1<\n>sudo mount -t ntfs-3g -o remove_hiberfile /dev/nvme1n1p1 /mnt/d1
+chmod +x ~/.config/waybar/scripts/disk-icon.sh
+chmod +x ~/.config/waybar/scripts/usb-icon.sh
+sh ~/.config/restart_waybar.sh
+shutdown now
+reboot
+yay nvme-cli
+smartctl
+lsblk
+smartctl -a /dev/nvme0n1p1
+sudo smartctl -a /dev/nvme0n1p1
+nvme-cli
+nvme 
+yay vicoria
+reboot
+yay badblock
+yay badblocks
+yay vicoria
+yay badblocks
+badblocks 
+lsblk
+sudo nvme device-self-test /dev/nvme0n1 --start --short
+sudo nvme device-self-test /dev/nvme0n1 --short
+sudo nvme device-self-test /dev/nvme0n1
+lsblk
+reboot
+lsblk -f
+lsblk
+reboot
+dot status
+sh ~/.config/restart_waybar.sh
+yay paru
+paru
+paru --help
+paru --interactive
+sudo sh ~/.config/custom-wofi-folders/usb-toggle.sh
+systemd-analyze 
+systemd-analyze blame
+sudo systemctl disable NetworkManager-wait-online.service<\n>
+sbctl status
+playerctl list
+playerctl -l
+yay
+yay -R yandex-browser
+yay -l
+yay --list
+shutdown now
+cat /etc/fstab
+cat /usr/lib/sddm/sddm.conf.d/default.conf
+lsblk -f
+yay reflector
+reflector
+yay lib32-nvidia-utils
+yay reflector
+reflector 
+yay lib32-nvidia-utils
+reflector --help
+reflector -c RU
+reflector -c RU -f 10
+yay rsync
+reflector -c RU -f 10
+sudo reflector --country Russia --country Kazakhstan --protocol https --latest 10 --sort rate --save /etc/pacman.d/mirrorlist<\n>
+code /etc/pacman.d/mirrorlist
+yay lib32-nvidia-utils
+sudo pacman -Syyu
+reboot
+journalctl -p 3 -xb<\n>
+dmesg -l err,crit,alert,emerg<\n>
+sudo dmesg -l err,crit,alert,emerg<\n>
+reboot
+sudo dmesg -l err,crit,alert,emerg<\n>
+journalctl -p 3 -xb<\n>
+sudo mkinitcpio -P<\n>
+reboot
+systemd-analyze blame
+systemd-analyze
+sudo mkdir /mnt/windisk
+lsblk
+sudo mount -t ntfs-3g /dev/nvme1n1p3 /mnt/windisk/
+reboot
+sudo reboot
+sudo pacman -Syu
+sudo pacman -S linux-zen linux-zen-headers
+sudo grub-mkconfig -o /boot/grub/grub.cfg<\n>
+reboot
+systemd-analyze\
+systemd-analyze
+systemd-analyze blame
+AyuGram --help
+vesktop --help
+sudo reboot
+ddds
+dddd
+sudo shuydown now
+sudo shutdown now
+notify-send "Тестовое уведомление" "Это сообщение от dunst"<\n>
+code ~/.config/restart_dunst.sh
+chmod +x ~/.config/restart_dunst.sh
+sh ~/.config/restart_dunst.sh
+chmod +x ~/.config/restart_dunst.sh
+sh ~/.config/restart_dunst.sh
+notify-send "Тестовое уведомление" "Это сообщение от dunst"<\n>
+sh ~/.config/restart_dunst.sh
+notify-send "Тестовое уведомление" "Это сообщение от dunst"<\n>
+sh ~/.config/restart_dunst.sh
+notify-send "Тестовое уведомление" "Это сообщение от dunst"
+/usr/bin/dmenu -l 10 -p dunst:
+sh ~/.config/restart_dunst.sh
+notify-send "Тестовое уведомление" "Это сообщение от dunst"
+sh ~/.config/restart_dunst.sh
+notify-send "Тестовое уведомление" "Это сообщение от dunst"
+sh ~/.config/restart_dunst.sh
+notify-send "Тестовое уведомление" "Это сообщение от dunst"
+sh ~/.config/restart_dunst.sh
+notify-send "Тестовое уведомление" "Это сообщение от dunst"
+sh ~/.config/restart_dunst.sh
+notify-send "Тестовое уведомление" "Это сообщение от dunst"
+code /usr/bin/sudo
+code /etc/sudoers
+sudo --no-sandbox code /etc/sudoers
+sudo code /etc/sudoers
+systemctl restart awgproxy
+sudo nano /etc/sudoers
+code ~/.config/restart_ObhodBlokirovok.sh
+systemctl restart awgproxy
+sudo visudo -c<\n>
+sudo systemctl restart awgproxy
+chmod +x ~/.config/restart_ObhodBlokirovok.sh
+sh ~/.config/restart_waybar.sh
+alacritty -e sh -c 'journalctl -u awgproxy.service -f'
+yay alacritty
+alacritty -e sh -c 'journalctl -u awgproxy.service -f'
+sh ~/.config/restart_waybar.sh
+yay pavucontrol
+sh ~/.config/restart_waybar.sh
+yay
+yay lazygit lazydocker
+yay pinta
+ls ~/.config/yazi/
+pinta
+pacman -Qdt<\n>
+pacman -Qdt
+dot status
+yay chezmoi
+chezmoi init
+chezmoi add ~/.config/hypr/
+chezmoi cd
+chezmoi add ~/.config/waybar/
