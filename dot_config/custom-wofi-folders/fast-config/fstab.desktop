@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=FSTAB
+Exec=code /etc/fstab
+Type=Application
+Categories=Utility;

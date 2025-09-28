@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=Dunst
+Exec=code ~/.config/dunst/dunstrc
+Type=Application
+Categories=Utility;

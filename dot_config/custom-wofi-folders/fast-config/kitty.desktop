@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=Kitty
+Exec=code ~/.config/kitty/kitty.conf
+Type=Application
+Categories=Utility;

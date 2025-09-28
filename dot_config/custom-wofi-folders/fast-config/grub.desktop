@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=GRUB
+Exec=code /etc/default/grub
+Type=Application
+Categories=Utility;

@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=This Panel
+Exec=code ~/.config/custom-wofi-folders
+Type=Application
+Categories=Utility;

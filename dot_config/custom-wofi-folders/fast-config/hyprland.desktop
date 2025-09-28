@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=Hyprland
+Exec=code ~/.config/hypr/hyprland.conf
+Type=Application
+Categories=Utility;

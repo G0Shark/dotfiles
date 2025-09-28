@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=AWGProxy
+Exec=code ~/.config/awgproxy/config.conf
+Type=Application
+Categories=Utility;

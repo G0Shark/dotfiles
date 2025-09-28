@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=Yazi
+Exec=code ~/.config/yazi
+Type=Application
+Categories=Utility;
